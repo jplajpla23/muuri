@@ -1,4 +1,4 @@
-# Muuri
+# Muuri Dasboard Widgets
 
 [![gzip size](http://img.badgesize.io/https://unpkg.com/muuri@0.7.1/dist/muuri.min.js?compression=gzip)](https://unpkg.com/muuri@0.7.1/dist/muuri.min.js)
 [![npm](https://img.shields.io/npm/v/muuri.svg)](http://npm.im/muuri)
